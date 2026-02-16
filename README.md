@@ -14,7 +14,7 @@ I primarily focus on developing games in Java while continuously strengthening m
 Java (Primary) • Python • C++
 
 **Tools**  
-Git • Eclipse
+Git • intellij
 
 **Core Knowledge**  
 Object-Oriented Programming  

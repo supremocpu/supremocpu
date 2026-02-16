@@ -4,7 +4,7 @@
 ---
 
 <h2 align="center">Profile</h2>
-I primarily focus on developing games in Java while continuously strengthening my programming skills through technical challenges and independent projects. My work centers on logical design, structured problem-solving, and transforming concepts into functional software systems.
+I primarily focus on developing games in Java while continuously strengthening my programming skills through technical challenges and independent projects. My work centers on logical design, structured problem solving, and transforming concepts into functional software systems.
 
 ---
 
